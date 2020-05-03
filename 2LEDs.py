@@ -1,3 +1,4 @@
+#should run only from a Raspberry PI
 import RPi.GPIO as GPIO
 from time import sleep
 
